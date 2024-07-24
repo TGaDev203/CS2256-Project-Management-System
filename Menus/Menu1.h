@@ -30,12 +30,12 @@ void loadMenu()
         switch (choiceMenu1)
         {
         case Menu1::AddGroups:
-            // If None OF the group is input
+            // If none of the group is input
             if (groups.size() <= 0)
             {
                 askUserInputMethodForGroup();
             }
-            // Else That Vector has already have at least 1 group then append
+            // Else that vector has already have at least 1 group then append
             else
             {
                 groups.push_back(inputGroupInfo(groups.size(), groups));
