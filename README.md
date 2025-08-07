@@ -86,5 +86,3 @@ This project is a command-line interface (CLI) application for managing groups a
 2. Validation Functions: Implemented functions to validate input data and ensure data integrity.
 3. Main Logic: Developed the core application logic to handle user interactions and execute essential functionalities.
 4. Testing: Conducted basic testing to ensure the functionality and reliability of the system.
-
----
